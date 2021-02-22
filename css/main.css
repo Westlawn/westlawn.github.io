@@ -128,10 +128,10 @@ h2 ~ p {
 }
 .nav-links a:hover,
 .nav-links a:active {
-  color: #ed6e2f;
+  color: #fcba03;
 }
 .header-nav > li:first-child a {
-  color: #ed6e2f;
+  color: #fcba03;
 }
 .header-nav > li:first-child a:hover {
   color: #fff;
@@ -153,7 +153,7 @@ h2 ~ p {
 }
 .header-logo:hover,
 .header-logo:active {
-  background-color: #ed6e2f;
+  background-color: #fcba03;
 }
 
 /* DROPDOWN STYLES */
@@ -164,7 +164,7 @@ h2 ~ p {
   display: block;
 }
 .dropdown:hover .drop-trigger:after {
-  border-color: #ed6e2f transparent transparent;
+  border-color: #fcba03 transparent transparent;
 }
 .drop-trigger {
   display: inline-block;
@@ -493,7 +493,7 @@ h2 ~ p {
   opacity: 1;
 }
 .gallery-thumbs .current img {
-  box-shadow: 0 0 0 5px #ed6e2f;
+  box-shadow: 0 0 0 5px #fcba03;
   opacity: 1;
 }
 .gallery-photo {
@@ -656,7 +656,7 @@ h2 ~ p {
   }
   .mobile-menu-check:checked ~ .show-mobile-menu:after {
     background-color: #000;
-    color: #ed6e2f;
+    color: #fcba03;
     content: "CLOSE";
     left: 0;
     position: absolute;
