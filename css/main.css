@@ -352,7 +352,7 @@ h2 ~ p {
   transform: translate(0, -50%);
 }
 .hero-content h1 {
-  color: rgba(255, 255, 255, 0.8);
+  color: #edb233;
   font-size: 7vw;
   margin-bottom: 0.25em;
 }
