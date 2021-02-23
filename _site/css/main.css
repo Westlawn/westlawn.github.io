@@ -128,10 +128,10 @@ h2 ~ p {
 }
 .nav-links a:hover,
 .nav-links a:active {
-  color: #ed6e2f;
+  color: #f0bf44;
 }
 .header-nav > li:first-child a {
-  color: #ed6e2f;
+  color: #f0bf44;
 }
 .header-nav > li:first-child a:hover {
   color: #fff;
@@ -145,7 +145,7 @@ h2 ~ p {
   padding: 10px;
   position: relative;
   text-align: center;
-  width: 10vh;
+  width: 8vh;
 }
 .header-logo img {
   height: 80%;
@@ -153,7 +153,7 @@ h2 ~ p {
 }
 .header-logo:hover,
 .header-logo:active {
-  background-color: #ed6e2f;
+  background-color: #f0bf44;
 }
 
 /* DROPDOWN STYLES */
@@ -164,7 +164,7 @@ h2 ~ p {
   display: block;
 }
 .dropdown:hover .drop-trigger:after {
-  border-color: #ed6e2f transparent transparent;
+  border-color: #f0bf44 transparent transparent;
 }
 .drop-trigger {
   display: inline-block;
@@ -252,7 +252,7 @@ h2 ~ p {
   text-align: center;
 }
 .footer img {
-  width: 50px;
+  width: 150px;
 }
 .footer h3 {
   color: #fff;
@@ -340,7 +340,7 @@ h2 ~ p {
   width: 0;
 }
 .hero-home {
-  background-image: url(/images/shark.jpg);
+  background-image: url(/images/WGHahnDonTeo72.JPG);
   background-position: center top;
 }
 .hero-content {
@@ -352,8 +352,9 @@ h2 ~ p {
   transform: translate(0, -50%);
 }
 .hero-content h1 {
-  color: rgba(255, 255, 255, 0.8);
+  color: #f0bf44;
   font-size: 7vw;
+  font-weight: bold;
   margin-bottom: 0.25em;
 }
 .hero-content .social-link {
@@ -493,7 +494,7 @@ h2 ~ p {
   opacity: 1;
 }
 .gallery-thumbs .current img {
-  box-shadow: 0 0 0 5px #ed6e2f;
+  box-shadow: 0 0 0 5px #f0bf44;
   opacity: 1;
 }
 .gallery-photo {
@@ -656,7 +657,7 @@ h2 ~ p {
   }
   .mobile-menu-check:checked ~ .show-mobile-menu:after {
     background-color: #000;
-    color: #ed6e2f;
+    color: #f0bf44;
     content: "CLOSE";
     left: 0;
     position: absolute;
