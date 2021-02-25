@@ -151,9 +151,10 @@ h2 ~ p {
   height: 80%;
   width: auto;
 }
-.header-logo:hover,
-.header-logo:active {
-  background-color: #f0bf44;
+.header-logo img:hover,
+.header-logo img:active {
+  height: 100%;
+  width: auto;
 }
 
 /* DROPDOWN STYLES */
