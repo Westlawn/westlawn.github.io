@@ -130,12 +130,7 @@ h2 ~ p {
 .nav-links a:active {
   color: #f0bf44;
 }
-.header-nav > li:first-child a {
-  color: #f0bf44;
-}
-.header-nav > li:first-child a:hover {
-  color: #fff;
-}
+
 .header-logo {
   background-color: #000;
   box-sizing: border-box;
