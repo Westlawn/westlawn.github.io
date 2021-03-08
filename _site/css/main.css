@@ -336,7 +336,7 @@ h2 ~ p {
   width: 0;
 }
 .hero-home {
-  background-image: url(/images/WGHahnDonTeo72.JPG);
+  background-image: url(/images/designer/Hahn/DonTeo72.JPG);
   background-position: center top;
 }
 .hero-content {
@@ -498,7 +498,6 @@ h2 ~ p {
 }
 .gallery-photo img {
   width: 100%;
-  height: auto;
 }
 .gallery-info {
   font-size: 0.8rem;
