@@ -498,6 +498,7 @@ h2 ~ p {
 }
 .gallery-photo img {
   width: 100%;
+  height: auto;
 }
 .gallery-info {
   font-size: 0.8rem;
