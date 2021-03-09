@@ -469,6 +469,23 @@ h2 ~ p {
   font-size: 0.75em;
 }
 
+/* Contact Styles */
+.contact-box img {
+    max-width: 30%;
+    border-bottom: 5em;
+    float: center;
+    margin: 2rem;
+}
+
+.contact-box {
+  margin: .5rem;
+  width: 30%;
+}
+
+.contact-wrapper {
+  
+}
+
 /* GALLERY STYLES */
 .gallery-thumbs {
   height: 90vh;
