@@ -440,7 +440,7 @@ h2 ~ p {
 .bio-wrapper {
   font-size: 24px;
   margin: auto;
-  max-width: 960px;
+  max-width: auto;
   overflow: hidden;
 }
 .bio-box {
@@ -470,21 +470,15 @@ h2 ~ p {
 }
 
 /* Contact Styles */
-.contact-box img {
-    max-width: 30%;
-    border-bottom: 5em;
-    float: center;
-    margin: 2rem;
-}
 
 .contact-box {
-  margin: .5rem;
-  width: 30%;
+  text-align: center;
+}
+.contact-box img {
+  width: 20%;
+  margin: 2em;
 }
 
-.contact-wrapper {
-  
-}
 
 /* GALLERY STYLES */
 .gallery-thumbs {
