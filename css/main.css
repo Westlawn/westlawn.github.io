@@ -485,7 +485,7 @@ h2 ~ p {
 .bio-box img {
   display: block;
   margin: auto;
-  max-height: 300px;
+  height: 300px;
   width: auto, 100%;
 }
 .bio-box .social-link {
