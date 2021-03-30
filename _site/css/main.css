@@ -503,6 +503,7 @@ h2 ~ p {
 }
 .contact-box img {
   width: 20%;
+  height: 20%;
   margin: 2em auto;
 }
 
